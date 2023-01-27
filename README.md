@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Trexpapu
-- 👀 I’m interested in ... La idea de ser un creador de videojuegos, me gustaría un dia poder lograrlo
-- 🌱 I’m currently learning ... Programación en HTML, BASH, C++, JAVASCRIPT, CSS.
-- Actualmente tengo conociemiento en... C, PYTHON.
--
+hola
