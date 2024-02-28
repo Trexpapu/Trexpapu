@@ -9,6 +9,7 @@ Acerca de mí
 Idiomas
 🇪🇸 Español (nativo)
 B2 Inglés (avanzado)
+
 Lenguajes y Tecnologías
 
 
