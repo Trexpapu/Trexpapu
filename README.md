@@ -8,7 +8,8 @@ Acerca de mí
 
 Idiomas
 🇪🇸 Español (nativo)
-🇬🇧 Inglés (avanzado)
+
+B2Inglés (avanzado)
 
 Lenguajes y Tecnologías
 
