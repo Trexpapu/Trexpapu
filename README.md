@@ -1,6 +1,11 @@
-Soy Emmanuel estudiante de ing en computación.
-A lo largo de mi carrera he trabajado con distintos lenguajes, sin embargo el que más domino es Python y C.
-Actualmente sigo aprendiendo y trabajando con distintas tecnologias y aspiro a ser desarrollador backend.
-También domino el idioma inglés.
-
+¡Hola! Soy Emmanuel 👋
+¡Bienvenido a mi perfil de GitHub! Soy estudiante de Ingeniería en Computación con pasión por la programación y el desarrollo de software. A lo largo de mi carrera, he adquirido experiencia en diversos lenguajes de programación, pero mis mayores habilidades residen en Python y C. Actualmente, me encuentro explorando nuevas tecnologías mientras aspiro a convertirme en un desarrollador backend sólido.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trexpapu&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+Acerca de mí
+💻 Estudiante de Ingeniería en Computación.
+🌱 Siempre aprendiendo y explorando nuevas tecnologías.
+🔭 Aspirante a desarrollador backend.
+Idiomas
+🇪🇸 Español (nativo)
+🇬🇧 Inglés (avanzado)
+Lenguajes y Tecnologías
