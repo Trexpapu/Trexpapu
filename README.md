@@ -12,7 +12,7 @@ Acerca de mí
 Idiomas
 
 🇪🇸 Español (nativo)
-B2 Inglés (avanzado)
+A1 Inglés (avanzado)
 
 Lenguajes y Tecnologías
 
