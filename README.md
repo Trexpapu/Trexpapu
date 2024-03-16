@@ -11,7 +11,8 @@ Acerca de mí
 
 Idiomas
 
-🇪🇸 Español (nativo)
+Español (nativo)
+
 A1 Inglés (avanzado)
 
 Lenguajes y Tecnologías
